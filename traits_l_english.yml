@@ -905,8 +905,8 @@ l_english:
  trait_education_intrigue:0 "Estudantes de Intriga"
  trait_education_diplomacy:0 "Estudantes de Diplomacia"
  trait_education_stewardship:0 "Estudantes de Administração"
- trait_education_martial:0 "Estudantes de Belicosidade"
- trait_education_learning:0 "Estudantes de Erudição"
+ trait_education_martial:0 "Estudantes de Marcialidade"
+ trait_education_learning:0 "Estudantes de Conhecimento Geral"
  trait_education_martial_prowess:0 "Estudantes de Cavalaria"
 
 #Lifestyle Groups
